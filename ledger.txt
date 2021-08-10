@@ -1,0 +1,5 @@
+Jane + 7.775 jul20 "pizza"
+... + 2.82 jul23 "mcdonalds"
+... + 12.95 ... "disposables"
+Doe, Eve, Jane, Joe + 10.75 jul20 "uber"
+Jane - 37.63 aug9 "pizza"

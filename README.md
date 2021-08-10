@@ -2,6 +2,7 @@
 Simple ledger
 
 Run
+
 `./parse.py [--name <your_name>] [--path <path_to_ledger>]`
 
 The ledger entries must be of the form
